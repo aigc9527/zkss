@@ -6,11 +6,7 @@ import random
 import html
 
 # 设置接口 URL
-<<<<<<< HEAD:abc.py
 base_url = "http://erwrwrw.com/index.php?m=&c=Index&a=fetch_chapter&novel_id=406023475&spread_id="
-=======
-base_url = "http://ssssss.com/index.php?m=&c=Index&a=fetch_chapter&novel_id=406023475&spread_id="
->>>>>>> 17bc46e0b2b6b66635fc9d3e7c214a97308698d0:skill.py
 output_file = "C:\\book\\406023475.txt"
 
 # 设置模拟的手机用户代理
