@@ -6,7 +6,7 @@ import random
 import html
 
 # 设置接口 URL
-base_url = "http://z5.z5.aichatmoss.com/index.php?m=&c=Index&a=fetch_chapter&novel_id=406023475&spread_id="
+base_url = "http://erwrwrw.com/index.php?m=&c=Index&a=fetch_chapter&novel_id=406023475&spread_id="
 output_file = "C:\\book\\406023475.txt"
 
 # 设置模拟的手机用户代理
